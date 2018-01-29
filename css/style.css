@@ -1,0 +1,42 @@
+table{
+	padding: 20px 30px;
+}
+
+.col-md-4{
+	text-align: center
+}
+
+.btn-nav:hover{
+	
+	-webkit-appearance:button;
+	-webkit-padding: 0.8em;            
+    padding: 15px 25px;
+    color: black;
+    text-transform: uppercase;    
+    border-radius: 10px;
+    box-shadow: 2px 1px 2px  black;
+    -webkit-transition: all 0.3s ease-in;
+    -moz-transition: all 0.3s ease-in;
+    -o-transition: all 0.3s ease-in;
+    transition: all 0.3s ease-in;
+}
+
+.btn-nav{
+	
+	border-radius: 5px;
+    color: black;
+    box-shadow: 2px 1px 5px 0px black;
+    margin-top: 5px;
+}
+
+.navbar-left{
+    margin-top: -9px;
+}
+
+#logo{
+    margin-left: 1000px;
+}
+
+#bas{
+    margin-left: 40px;
+}
